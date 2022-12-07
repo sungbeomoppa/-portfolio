@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+리액트로 만든 포트폴리오입니다
 
+ㅣ
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
